@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1790027276569,
+      "tag": "0000_dusty_shard",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1790027344101,
+      "tag": "0001_groovy_hammerhead",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1790079625496,
+      "tag": "0002_friendly_thunderbolts",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1790205096777,
+      "tag": "0003_tranquil_tyger_tiger",
+      "breakpoints": true
+    }
+  ]
+}
